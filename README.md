@@ -38,4 +38,5 @@ FAST National University of Computer and Emerging Sciences - Islamabad
 - **LinkedIn:** [Harris Saif](https://www.linkedin.com/in/harris-saif-863a84246/)
 - **GitHub:** [saifharris](https://github.com/saifharris)
 
+<img src="https://myreadme.vercel.app/api/embed/saifharris?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
