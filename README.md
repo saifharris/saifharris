@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-I am a passionate Junior Software Engineer with a solid foundation in **MERN stack development** and a keen interest in continuous learning. Over the past year, I've developed advanced web applications, ensuring top-notch code quality and adopting best practices in security and Agile methodologies. I thrive in collaborative environments and am always eager to take on new challenges in software development.
+I am a passionate  Software Engineer with a solid foundation in **MERN stack development** and a keen interest in continuous learning. Over the past year, I've developed advanced web applications, ensuring top-notch code quality and adopting best practices in security and Agile methodologies. I thrive in collaborative environments and am always eager to take on new challenges in software development.
 
 ### 💻 Technical Skills
 - **Programming Languages:** C, C++, Java, Python
