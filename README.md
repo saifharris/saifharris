@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Harris Maizan
 
-**Junior Software Engineer | MERN Stack Developer**
+** Software Engineer | MERN Stack Developer**
 
 📍 Rawalpindi, Pakistan
 
